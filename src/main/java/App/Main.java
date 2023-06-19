@@ -7,7 +7,6 @@ public class Main {
         IoT x = new IoT();
         x.in();
         x.out();
-        System.out.println("vers 1.2");
         System.out.println("Hello world!");
     }
 }
